@@ -12,3 +12,4 @@ console.log(`result_multiply = ${result_multiply}`);
 
 const result_divide = calc.divide(6,3);
 console.log(`result_divide = ${result_divide}`);
+console.log(calc.hello())
